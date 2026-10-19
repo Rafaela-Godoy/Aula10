@@ -1,0 +1,1 @@
+# Aula10-Conex-o-API-Supabase-Client
